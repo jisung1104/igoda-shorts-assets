@@ -1,0 +1,1 @@
+# igoda-shorts-assets
