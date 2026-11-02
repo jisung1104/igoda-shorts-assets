@@ -55,6 +55,27 @@
 "folderId": "1OtYgQeHZjlyPfRsiUF_qbD_3VznitqwJ",
 "folder": "테스트",
 "name": "a119_s08_rinse.png"
+},
+{
+"id": "a119-img-s09_bar",
+"url": "https://aigc.topviewai.app/analyzed_video/task/object_replace_llm/8f606f98d7e3455f887cfeee23943b08/0.png?v=2&verify=1793577600-PLHBTEgEcIB2wrWkpGx4D48iIVjMgDNzhzV%2BiTYvGa0%3D",
+"folderId": "1OtYgQeHZjlyPfRsiUF_qbD_3VznitqwJ",
+"folder": "테스트",
+"name": "a119_s09_bar.png"
+},
+{
+"id": "a119-img-s10_wallhook",
+"url": "https://aigc.topviewai.app/analyzed_video/task/object_replace_llm/2ad1b286399540dda962ded852f8250b/0.png?v=2&verify=1793577600-1ItfjS5LzWYlW%2BfJgmWVLTFK%2BetGd2gLfyynH5aI1AQ%3D",
+"folderId": "1OtYgQeHZjlyPfRsiUF_qbD_3VznitqwJ",
+"folder": "테스트",
+"name": "a119_s10_wallhook.png"
+},
+{
+"id": "a119-img-s11_box",
+"url": "https://aigc.topviewai.app/analyzed_video/task/object_replace_llm/2848f62e1c674df0848fc69cf4107120/0.png?v=2&verify=1793577600-w8EJ7iG5jMvag8KUE2U9lkMgOVdktRVVAWzUMUVAicY%3D",
+"folderId": "1OtYgQeHZjlyPfRsiUF_qbD_3VznitqwJ",
+"folder": "테스트",
+"name": "a119_s11_box.png"
 }
 ]
 }
